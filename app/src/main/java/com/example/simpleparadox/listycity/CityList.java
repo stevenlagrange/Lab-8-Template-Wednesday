@@ -83,6 +83,6 @@ public class CityList {
      * Lab 8 exercise function for testing
      */
     public int labExercise() {
-        return 2;
+        return 1;
     }
 }
